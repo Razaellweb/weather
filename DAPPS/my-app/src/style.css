@@ -1,0 +1,91 @@
+.completed{
+    background-color: green;
+    margin-bottom: 20px;
+    width: 70%;
+    align-items: center;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bolder;
+    border-radius: 20px;
+    padding: 15px;
+    border-style: dotted;
+    border-color: black;
+}
+body {
+    background-color: black;
+}
+.App {
+    width: 80%;
+    max-width: 500px;
+    border-color: white;
+    background-color: blue;
+    border-style: solid;
+    margin: 0 auto;
+    border-width: 10px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.headd {
+    margin: 0 auto;
+    align-self: center;
+    color: wheat;
+}
+.input {
+    height: 30px;
+    border-radius: 25px;
+    box-shadow: black(10px,10px,10px,10px);
+    width: 60%;
+    text-align: center;
+    box-shadow: 20px 5px rgba(0.2, 0, 0, 0.2);
+    margin-bottom: 10px;
+}
+.btn1 {
+    display: none;
+}
+.img1 {
+    background-image: url(./components/images/Astro/astro1.jpg);
+    height: 338px;
+    width: 338px;
+    border-radius: 230px;
+    margin-bottom: 25px;
+    border-style: dotted;
+    border-color: wheat;
+    border-width: medium;
+}
+.img2 {
+    background-image: url(./components/images/Astro/astro14.jpg);
+    height: 338px;
+    width: 338px;
+    border-radius: 230px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    border-style: dotted;
+    border-color: wheat;
+    border-width: medium;
+}
+.lists {
+    margin-bottom: 20px;
+    width: 70%;
+    align-items: center;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 15px;
+    border-style: dotted;
+    border-color: wheat;
+    font-weight: bolder;
+}
+.container {
+    display: none;
+}
+.btn3 {
+    margin: 0 auto;
+    background-color: lightskyblue;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.form1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

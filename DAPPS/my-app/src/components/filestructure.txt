@@ -1,0 +1,20 @@
+primary components
+1.Delete Icon
+2.Done Icon
+3.Local Storage
+
+Secondary components
+2.progress bar
+3.Filter System
+
+
+   /* var ct = "Do you want to delete?"
+        return (<>
+        <confirm
+          title="do stuff"
+          content={ct}
+          onConfirm={Gooal}
+          onClose={Gooal}
+          confirm="yep"
+          cancel="nope" />
+        </>); */
